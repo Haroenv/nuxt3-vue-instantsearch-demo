@@ -1,3 +1,5 @@
+> quick demo on what you need to patch for Vue InstantSearch to work in nuxt 3 until <https://github.com/algolia/vue-instantsearch/issues/1098> is closed
+
 # Nuxt 3 Minimal Starter
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
